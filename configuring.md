@@ -47,6 +47,6 @@ Let's see what they do:
 4) This section contains cache-related settings.
     - 4.1) This setting allows you to flush the cache of a specified page. Note we do this automatically, so you don't need to do it every time you push.
 5) This section contains dangerous settings
-    - 5.1) This setting allowa you to delete the project from UnMarkDocs. Note that using this option will not delete the repository from GitHub, nor erase any content from it.
+    - 5.1) This setting allows you to delete the project from UnMarkDocs. Note that using this option will not delete the repository from GitHub, nor erase any content from it.
 
 That's it! :sparkles:
