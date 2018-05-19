@@ -25,7 +25,7 @@ Now, let's see what each option does:
 
 1) This section contains all the general settings.
     - 1.1) This setting allows you to customize the name shown on your dashboard and at the top of the sidebar in your project's page.
-    - 1.2) This setting allows you to customize the URL users will use to access your project's page (unless you setup a [custom domain](custom-domain)).
+    - 1.2) This setting allows you to customize the URL users will use to access your project's page (unless you setup a [custom domain](custom-domains)).
     - 1.3) This setting allows you to specify the file that will be served when no page is specified. Think of it as an `index.html` file.
     - 1.4) This setting allows you to customize the branch where your documentation will be loaded from.
 2) This section contains all personalization-related settings.
