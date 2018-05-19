@@ -16,3 +16,6 @@ The [configuration](configuring) and [customization](customizing) sections will 
 
 ## If you want to learn more about UnMarkDocs Flavoured Markdown
 The best way to learn about *[UFM]: [UnMarkDocs Flavoured Markdown] is to check [the spec](https://spec.unmarkdocs.co). It serves both as a teaching source and as a reference page.
+
+## If you want to learn about custom domains
+Good news! We have [a guide](custom-domains) that covers exactly that!
